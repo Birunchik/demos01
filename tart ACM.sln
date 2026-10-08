@@ -1,0 +1,11 @@
+[33mcommit 0f194461a386ee58ee38e78238264540cb087f29[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Anna Karkanitsa <karkanica@gmail.com>
+Date:   Thu Sep 22 23:08:21 2022 +0300
+
+    Add project files.
+
+[33mcommit 0015c3af5756dfec26a45dd26738ea6cb0a51390[m
+Author: Anna Karkanitsa <karkanica@gmail.com>
+Date:   Thu Sep 22 23:08:19 2022 +0300
+
+    Add .gitattributes, .gitignore, and README.md.
